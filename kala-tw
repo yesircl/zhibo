@@ -1,0 +1,114 @@
+#EXTM3U
+## 肥羊群 > Kala Gs
+#EXTINF:-1 tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86.png" group-title="台湾",台视
+http://23.237.10.66:16344
+#EXTINF:-1 tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png" group-title="台湾",民视
+http://23.237.10.66:16334
+#EXTINF:-1 tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="台湾",中视
+http://iptv12k.com:35461/80203091402/213445/14499
+#EXTINF:-1 tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾",华视
+http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
+#EXTINF:-1 tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="台湾",公视
+http://iptv12k.com:35461/80203091402/213445/14497
+
+#EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="台湾",探索频道
+http://198.16.64.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
+#EXTINF:-1 tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="台湾",动物星球
+http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+#EXTINF:-1 tvg-name="星卫娱乐" tvg-logo="https://iptv-pro.github.io/logo/%E6%98%9F%E5%8D%AB%E5%A8%B1%E4%B9%90%E5%8F%B0.png" group-title="台湾",星卫娱乐台
+http://23.237.10.66:16359
+#EXTINF:-1 tvg-name="星卫HD电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="台湾",星卫电影台
+http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+#EXTINF:-1 tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="台湾",美亚电影台
+http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+#EXTINF:-1 tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="台湾",好莱坞电影台
+http://iptv12k.com:35461/80203091402/213445/14465
+#EXTINF:-1 tvg-name="LSTime电影台" tvg-logo="http://www.lstime.com.tw/ls_pages/pages/img/img_logo@2x.png" group-title="台湾",龙祥时代
+http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+
+#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾",东森新闻台
+http://61.222.202.191/gt/gttv.php?id=13635&cid=13787
+#EXTINF:-1 tvg-name="东森戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="台湾",东森戏剧台
+http://iptv12k.com:35461/80203091402/213445/14471
+#EXTINF:-1 tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="台湾",东森洋片台
+http://iptv12k.com:35461/80203091402/213445/14472
+#EXTINF:-1 tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="台湾",东森电影台
+http://iptv12k.com:35461/80203091402/213445/14470
+#EXTINF:-1 tvg-name="东森幼幼台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" group-title="台湾",东森幼幼
+http://198.16.64.10:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="台湾",东森超视
+http://50.7.220.74:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
+
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="台湾",TVBS
+http://iptv12k.com:35461/80203091402/213445/14485
+#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%AC%A2%E4%B9%90.png" group-title="台湾",TVBS欢乐台
+http://iptv12k.com:35461/80203091402/213445/14501
+#EXTINF:-1 tvg-name="TVBS精采台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E7%B2%BE%E9%87%87.png" group-title="台湾",TVBS精采台
+http://iptv12k.com:35461/80203091402/213445/14502
+
+#EXTINF:-1 tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="台湾",中天娱乐台
+http://iptv12k.com:35461/80203091402/213445/14486
+
+#EXTINF:-1 tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台湾",三立新闻台
+http://iptv12k.com:35461/80203091402/213445/14494
+#EXTINF:-1 tvg-name="三立综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" group-title="台湾",三立综合台
+http://iptv12k.com:35461/80203091402/213445/14493
+#EXTINF:-1 tvg-name="三立都会台" tvg-logo="https://upload.112114.xyz/logo/SLDH.png" group-title="台湾",三立都会台
+http://iptv12k.com:35461/80203091402/213445/14496
+#EXTINF:-1 tvg-name="三立台湾台" tvg-logo="https://upload.112114.xyz/logo/SLTW.png" group-title="台湾",三立台湾台
+http://iptv12k.com:35461/80203091402/213445/14495
+
+#EXTINF:-1 tvg-name="八大戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" group-title="台湾",八大戏剧台
+http://iptv12k.com:35461/80203091402/213445/14492
+#EXTINF:-1 tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="台湾",八大综合台
+http://iptv12k.com:35461/80203091402/213445/14491
+#EXTINF:-1 tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="台湾",八大第一台
+http://iptv12k.com:35461/80203091402/213445/14490
+#EXTINF:-1 tvg-name="八大优" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/badayou.png" group-title="台湾",八大优
+http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="纬来戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png" group-title="台湾",纬来戏剧台
+http://iptv12k.com:35461/80203091402/213445/14459
+#EXTINF:-1 tvg-name="纬来精采" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weilaojingcai.png" group-title="台湾",纬来精采
+http://iptv12k.com:35461/80203091402/213445/14457
+#EXTINF:-1 tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="台湾",纬来日本台
+http://iptv12k.com:35461/80203091402/213445/14456
+#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="台湾",纬来体育台
+http://iptv12k.com:35461/80203091402/213445/14455
+#EXTINF:-1 tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="台湾",纬来电影台
+http://iptv12k.com:35461/80203091402/213445/14454
+
+#EXTINF:-1 tvg-name="靖天国际" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E5%9B%BD%E9%99%85.png" group-title="台湾",靖天国际
+http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="靖天映画" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E6%98%A0%E7%94%BB.png" group-title="台湾",靖天映画
+http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="靖天戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E6%88%8F%E5%89%A7.png" group-title="台湾",靖天戏剧台
+http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="靖天日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC.png" group-title="台湾",靖天日本台
+http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="靖天欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E6%AC%A2%E4%B9%90.png" group-title="台湾",靖天欢乐台
+http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="靖天电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E7%94%B5%E5%BD%B1.png" group-title="台湾",靖天电影台
+http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="靖天育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E8%82%B2%E4%B9%90.png" group-title="台湾",靖天育乐台
+http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A.png" group-title="台湾",靖天卡通台
+http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="靖洋卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9A.png" group-title="台湾",靖洋卡通台
+http://www.336699.live:1935/blockfour/4gtv-4gtv057.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="靖洋戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E6%B4%8B%E6%88%8F%E5%89%A7.png" group-title="台湾",靖洋戏剧台
+http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="爱尔达娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" group-title="台湾",爱尔达娱乐台
+http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="采昌影剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%87%87%E6%98%8C%E5%BD%B1%E5%89%A7.png" group-title="台湾",采昌影剧
+http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="影迷数位电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="台湾",影迷数位电影
+http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="CatchPlay电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/catchplay.png" group-title="台湾",CatchPlay电影
+http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="TraceSports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png" group-title="台湾",TraceSports
+http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="cnex" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cnex.png" group-title="台湾",cnex
+http://www.336699.live:1935/blockfour/4gtv-4gtv013.stream/playlist.m3u8
