@@ -4762,7 +4762,7 @@ http://685123.xyz:4022/udp/239.61.4.4:1025
 http://685123.xyz:4022/udp/239.61.4.5:1025
 #EXTINF:-1,tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="https://epg.112114.xyz/logo/福建旅游.png" group-title="福建电信",福建旅游
 http://685123.xyz:4022/udp/239.61.4.6:1025
-#EXTINF:-1,tvg-id="福建经济生活" tvg-name="福建经济生活" tvg-logo="https://epg.112114.xyz/logo/福建经济生活.png" group-title="福建电信",福建经济生活
+#EXTINF:-1,tvg-id="福建经济" tvg-name="福建经济" tvg-logo="https://epg.112114.xyz/logo/福建经济.png" group-title="福建电信",福建经济
 http://685123.xyz:4022/udp/239.61.4.7:1025
 #EXTINF:-1,tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://epg.112114.xyz/logo/福建少儿.png" group-title="福建电信",福建少儿
 http://685123.xyz:4022/udp/239.61.4.9:1025
