@@ -3886,7 +3886,7 @@ http://jd.cxctu.cf:4000/udp/239.93.0.92:5140
 http://jd.cxctu.cf:4000/udp/239.93.0.104:5140
 #EXTINF:-1,tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://epg.112114.xyz/logo/CGTN西班牙语.png" group-title="成都电信",CGTN西班牙语
 http://jd.cxctu.cf:4000/udp/239.93.42.49:5140
-#EXTINF:-1,tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://epg.112114.xyz/logo/CGTN法语.png" group-title="武汉电信",CGTN法语
+#EXTINF:-1,tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://epg.112114.xyz/logo/CGTN法语.png" group-title="成都电信",CGTN法语
 http://jd.cxctu.cf:4000/udp/239.93.42.50:5140
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="成都电信",CETV1
 http://jd.cxctu.cf:4000/udp/239.93.1.111:5140
