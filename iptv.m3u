@@ -5588,7 +5588,7 @@ http://iptv.ikuai.tv:8000/udp/229.58.190.34:5000
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="黑龙江联通",CCTV1
 http://iptv.ikuai.tv:8000/udp/229.58.190.151:5000
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="黑龙江联通",CCTV2
-http://iptv.ikuai.tv:8000/udp/2229.58.190.153:5000
+http://iptv.ikuai.tv:8000/udp/229.58.190.153:5000
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="黑龙江联通",CCTV3
 http://iptv.ikuai.tv:8000/udp/229.58.190.35:5000
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="黑龙江联通",CCTV4
