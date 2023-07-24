@@ -3162,7 +3162,7 @@ http://sslsz.oceaniwork.com:4022/udp/239.253.43.73:5146
 #EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" group-title="广东电信",广州法治
 http://sslsz.oceaniwork.com:4022/udp/239.253.43.74:5146
 #EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://epg.112114.xyz/logo/广州竞赛.png" group-title="广东电信",广州竞赛
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.70:5146
+http://sslsz.oceaniwork.com:4022/udp/239.253.43.75:5146
 #EXTINF:-1 tvg-id="南国都市" tvg-name="南国都市" tvg-logo="https://epg.112114.xyz/logo/南国都市.png" group-title="广东电信",南国都市
 http://sslsz.oceaniwork.com:4022/udp/239.253.43.99:5146
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="广东电信",深圳卫视
@@ -3323,7 +3323,11 @@ http://sslsz.oceaniwork.com:4022/udp/239.253.43.35:5146
 http://sslsz.oceaniwork.com:4022/udp/239.77.0.189:5146
 #EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="广东电信",三沙卫视
 http://sslsz.oceaniwork.com:4022/udp/239.253.43.113:5146
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="广东电信",金鹰卡通
+#EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://epg.112114.xyz/logo/潮州综合.png" group-title="广东电信",潮州综合
+http://sslsz.oceaniwork.com:4022/udp/239.253.43.70:5146
+#EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生" tvg-logo="https://epg.112114.xyz/logo/潮州民生.png" group-title="广东电信",潮州民生
+http://sslsz.oceaniwork.com:4022/udp/239.253.43.75:5146
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="广东电信",金鹰卡通
 http://sslsz.oceaniwork.com:4022/udp/239.77.0.164:5146
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="广东电信",金鹰纪实
 http://sslsz.oceaniwork.com:4022/udp/239.77.1.217:5146
