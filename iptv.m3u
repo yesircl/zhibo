@@ -4278,26 +4278,24 @@ http://appstar.site:8888/udp/225.1.1.180:5002
 ####
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="辽宁联通",辽宁卫视
 http://cd.sy012.com:4000/udp/232.0.0.144:9108
-#EXTINF:-1,tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://epg.112114.xyz/logo/辽宁都市.png" group-title="辽宁联通",辽宁都市
-http://cd.sy012.com:4000/udp/232.0.0.42:8856
 #EXTINF:-1,tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="https://epg.112114.xyz/logo/辽宁体育.png" group-title="辽宁联通",辽宁体育
 http://cd.sy012.com:4000/udp/232.0.0.66:8820
+#EXTINF:-1,tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://epg.112114.xyz/logo/辽宁都市.png" group-title="辽宁联通",辽宁都市
+http://cd.sy012.com:4000/udp/232.0.0.42:8856
 #EXTINF:-1,tvg-id="辽宁影视" tvg-name="辽宁影视" tvg-logo="https://epg.112114.xyz/logo/辽宁影视.png" group-title="辽宁联通",辽宁影视
 http://cd.sy012.com:4000/udp/232.0.0.97:8534
 #EXTINF:-1,tvg-id="辽宁经济" tvg-name="辽宁经济" tvg-logo="https://epg.112114.xyz/logo/辽宁经济.png" group-title="辽宁联通",辽宁经济
 http://cd.sy012.com:4000/udp/232.0.0.155:9320
 #EXTINF:-1,tvg-id="辽宁公共" tvg-name="辽宁公共" tvg-logo="https://epg.112114.xyz/logo/辽宁公共.png" group-title="辽宁联通",辽宁公共
 http://cd.sy012.com:4000/udp/232.0.0.156:9322
-#EXTINF:-1,tvg-id="辽宁移动电视" tvg-name="辽宁移动电视" tvg-logo="https://epg.112114.xyz/logo/辽宁移动电视.png" group-title="辽宁联通",辽宁移动电视
-http://cd.sy012.com:4000/udp/232.0.0.167:9338
 #EXTINF:-1,tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://epg.112114.xyz/logo/辽宁北方.png" group-title="辽宁联通",辽宁北方
 http://cd.sy012.com:4000/udp/232.0.0.211:9240
 #EXTINF:-1,tvg-id="辽宁生活" tvg-name="辽宁生活" tvg-logo="https://epg.112114.xyz/logo/辽宁生活.png" group-title="辽宁联通",辽宁生活
 http://cd.sy012.com:4000/udp/232.0.0.212:9242
 #EXTINF:-1,tvg-id="辽宁青少" tvg-name="辽宁青少" tvg-logo="https://epg.112114.xyz/logo/辽宁青少.png" group-title="辽宁联通",辽宁青少
 http://cd.sy012.com:4000/udp/232.0.0.230:9356
-#EXTINF:-1,tvg-id="海豚少儿" tvg-name="海豚少儿" tvg-logo="https://epg.112114.xyz/logo/海豚少儿.png" group-title="辽宁联通",海豚少儿
-http://cd.sy012.com:4000/udp/232.0.0.236:9368
+#EXTINF:-1,tvg-id="辽宁移动电视" tvg-name="辽宁移动电视" tvg-logo="https://epg.112114.xyz/logo/辽宁移动电视.png" group-title="辽宁联通",辽宁移动电视
+http://cd.sy012.com:4000/udp/232.0.0.167:9338
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="辽宁联通",CCTV1综合
 http://cd.sy012.com:4000/udp/232.0.0.27:8808
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="辽宁联通",CCTV2财经
