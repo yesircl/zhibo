@@ -3077,297 +3077,297 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/in
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4766929BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaWf4k%2B88FALXqp3i7ExZ4HArfvJF2pWpm4RxcBNhZ7j8oKdkoj6hFDX2k81AyJk8L2ZgQL4lTNsyfhwMVyjNWA
 ####
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="成都电信",四川卫视
-http://disk.hongda.lu:4022/udp/239.93.0.20:1235
+http://cdtriot.cn:9999/udp/239.93.0.20:1235
 #EXTINF:-1,tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://epg.112114.xyz/logo/峨眉电影.png" group-title="成都电信",四川峨眉电影
-http://disk.hongda.lu:4022/udp/239.93.0.252:5140
+http://cdtriot.cn:9999/udp/239.93.0.252:5140
 #EXTINF:-1,tvg-id="四川经济" tvg-name="四川经济" tvg-logo="https://epg.112114.xyz/logo/四川经济.png" group-title="成都电信",四川经济
-http://disk.hongda.lu:4022/udp/239.93.1.101:5140
+http://cdtriot.cn:9999/udp/239.93.1.101:5140
 #EXTINF:-1,tvg-id="四川文化旅游" tvg-name="四川文化旅游" tvg-logo="https://epg.112114.xyz/logo/四川文化旅游.png" group-title="成都电信",四川文化旅游
-http://disk.hongda.lu:4022/udp/239.93.1.102:5140
+http://cdtriot.cn:9999/udp/239.93.1.102:5140
 #EXTINF:-1,tvg-id="四川新闻" tvg-name="四川新闻" tvg-logo="https://epg.112114.xyz/logo/四川新闻.png" group-title="成都电信",四川新闻
-http://disk.hongda.lu:4022/udp/239.93.0.47:5140
+http://cdtriot.cn:9999/udp/239.93.0.47:5140
 #EXTINF:-1,tvg-id="四川影视文艺" tvg-name="四川影视文艺" tvg-logo="https://epg.112114.xyz/logo/四川影视文艺.png" group-title="成都电信",四川影视文艺
-http://disk.hongda.lu:4022/udp/239.93.0.166:5140
+http://cdtriot.cn:9999/udp/239.93.0.166:5140
 #EXTINF:-1,tvg-id="四川妇女儿童" tvg-name="四川妇女儿童" tvg-logo="https://epg.112114.xyz/logo/四川妇女儿童.png" group-title="成都电信",四川妇女儿童
-http://disk.hongda.lu:4022/udp/239.93.0.219:5140
+http://cdtriot.cn:9999/udp/239.93.0.219:5140
 #EXTINF:-1,tvg-id="四川科教" tvg-name="四川科教" tvg-logo="https://epg.112114.xyz/logo/四川科教.png" group-title="成都电信",四川科教
-http://disk.hongda.lu:4022/udp/239.93.42.44:5140
+http://cdtriot.cn:9999/udp/239.93.42.44:5140
 #EXTINF:-1,tvg-id="四川乡村" tvg-name="四川乡村" tvg-logo="https://epg.112114.xyz/logo/四川乡村.png" group-title="成都电信",四川乡村
-http://disk.hongda.lu:4022/udp/239.93.0.52:5140
+http://cdtriot.cn:9999/udp/239.93.0.52:5140
 #EXTINF:-1,tvg-id="四川星空购物" tvg-name="四川星空购物" tvg-logo="https://epg.112114.xyz/logo/星空购物.png" group-title="成都电信",四川星空购物
-http://disk.hongda.lu:4022/udp/239.93.1.144:5140
+http://cdtriot.cn:9999/udp/239.93.1.144:5140
 #EXTINF:-1 tvg-id="i成都" tvg-name="i成都" tvg-logo="https://epg.112114.xyz/logo/CDTV1.png" group-title="成都电信",i成都
-http://disk.hongda.lu:4022/udp/239.93.1.104:1234
+http://cdtriot.cn:9999/udp/239.93.1.104:1234
 #EXTINF:-1,tvg-id="CDTV1" tvg-name="CDTV1" tvg-logo="https://epg.112114.xyz/logo/CDTV1.png" group-title="成都电信",成都综合
-http://disk.hongda.lu:4022/udp/239.93.0.16:5140
+http://cdtriot.cn:9999/udp/239.93.0.16:5140
 #EXTINF:-1,tvg-id="CDTV2" tvg-name="CDTV2" tvg-logo="https://epg.112114.xyz/logo/CDTV2.png" group-title="成都电信",成都经济
-http://disk.hongda.lu:4022/udp/239.93.0.17:1239
+http://cdtriot.cn:9999/udp/239.93.0.17:1239
 #EXTINF:-1,tvg-id="CDTV3" tvg-name="CDTV3" tvg-logo="https://epg.112114.xyz/logo/CDTV3.png" group-title="成都电信",成都生活
-http://disk.hongda.lu:4022/udp/239.93.0.18:1238
+http://cdtriot.cn:9999/udp/239.93.0.18:1238
 #EXTINF:-1,tvg-id="CDTV4" tvg-name="CDTV4" tvg-logo="https://epg.112114.xyz/logo/CDTV4.png" group-title="成都电信",成都影视
-http://disk.hongda.lu:4022/udp/239.93.0.19:1250
+http://cdtriot.cn:9999/udp/239.93.0.19:1250
 #EXTINF:-1,tvg-id="CDTV5" tvg-name="CDTV5" tvg-logo="https://epg.112114.xyz/logo/CDTV5.png" group-title="成都电信",成都公共
-http://disk.hongda.lu:4022/udp/239.93.1.231:5140
+http://cdtriot.cn:9999/udp/239.93.1.231:5140
 #EXTINF:-1,tvg-id="CDTV6" tvg-name="CDTV6" tvg-logo="https://epg.112114.xyz/logo/CDTV6.png" group-title="成都电信",成都少儿
-http://disk.hongda.lu:4022/udp/239.93.0.21:1251
+http://cdtriot.cn:9999/udp/239.93.0.21:1251
 #EXTINF:-1,tvg-id="CDTV8" tvg-name="CDTV8" tvg-logo="https://epg.112114.xyz/logo/CDTV8.png" group-title="成都电信",成都每日购物
-http://disk.hongda.lu:4022/udp/239.93.0.22:1252
+http://cdtriot.cn:9999/udp/239.93.0.22:1252
 #EXTINF:-1,tvg-id="蓉城先锋" tvg-name="蓉城先锋" tvg-logo="https://epg.112114.xyz/logo/蓉城先锋.png" group-title="成都电信",蓉城先锋
-http://disk.hongda.lu:4022/udp/239.93.0.91:2101
+http://cdtriot.cn:9999/udp/239.93.0.91:2101
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="成都电信",爱上4K
-http://disk.hongda.lu:4022/udp/239.93.0.97:5140
+http://cdtriot.cn:9999/udp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://epg.112114.xyz/logo/绚影4K.png" group-title="成都电信",绚影4K
-http://disk.hongda.lu:4022/udp/239.93.42.33:5140
+http://cdtriot.cn:9999/udp/239.93.42.33:5140
 #EXTINF:-1 tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://epg.112114.xyz/logo/4K超高清电影.png" group-title="成都电信",4K超高清电影
-http://disk.hongda.lu:4022/udp/239.93.1.156:5140
+http://cdtriot.cn:9999/udp/239.93.1.156:5140
 #EXTINF:-1 tvg-id="4K乐享超清" tvg-name="4K乐享超清" tvg-logo="https://epg.112114.xyz/logo/4K乐享超清.png" group-title="成都电信",4K乐享超清
-http://disk.hongda.lu:4022/udp/239.93.0.43:5140
+http://cdtriot.cn:9999/udp/239.93.0.43:5140
 #EXTINF:-1 tvg-id="亲子趣学4K" tvg-name="亲子趣学4K" tvg-logo="https://epg.112114.xyz/logo/亲子趣学4K.png" group-title="成都电信",亲子趣学4K
-http://disk.hongda.lu:4022/udp/239.93.1.191:5140
+http://cdtriot.cn:9999/udp/239.93.1.191:5140
 #EXTINF:-1 tvg-id="津津悦读4K" tvg-name="津津悦读4K" tvg-logo="https://epg.112114.xyz/logo/津津悦读4K.png" group-title="成都电信",津津悦读4K
-http://disk.hongda.lu:4022/udp/239.93.1.197:5140
+http://cdtriot.cn:9999/udp/239.93.1.197:5140
 #EXTINF:-1 tvg-id="中录动漫4K" tvg-name="中录动漫4K" tvg-logo="https://epg.112114.xyz/logo/中录动漫4K.png" group-title="成都电信",中录动漫4K
-http://disk.hongda.lu:4022/udp/239.93.1.188:5140
+http://cdtriot.cn:9999/udp/239.93.1.188:5140
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="成都电信",CCTV1
-http://disk.hongda.lu:4022/udp/239.93.0.184:5140
+http://cdtriot.cn:9999/udp/239.93.0.184:5140
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="成都电信",CCTV2
-http://disk.hongda.lu:4022/udp/239.93.1.23:6000
+http://cdtriot.cn:9999/udp/239.93.1.23:6000
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="成都电信",CCTV3
-http://disk.hongda.lu:4022/udp/239.93.1.11:2223
+http://cdtriot.cn:9999/udp/239.93.1.11:2223
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="成都电信",CCTV4
-http://disk.hongda.lu:4022/udp/239.93.1.105:5140
+http://cdtriot.cn:9999/udp/239.93.1.105:5140
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="成都电信",CCTV5
-http://disk.hongda.lu:4022/udp/239.93.42.37:5140
+http://cdtriot.cn:9999/udp/239.93.42.37:5140
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="成都电信",CCTV5+
-http://disk.hongda.lu:4022/udp/239.93.1.36:8004
+http://cdtriot.cn:9999/udp/239.93.1.36:8004
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="成都电信",CCTV6
-http://disk.hongda.lu:4022/udp/239.93.1.13:2226
+http://cdtriot.cn:9999/udp/239.93.1.13:2226
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="成都电信",CCTV7
-http://disk.hongda.lu:4022/udp/239.93.1.67:5140
+http://cdtriot.cn:9999/udp/239.93.1.67:5140
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="成都电信",CCTV8
-http://disk.hongda.lu:4022/udp/239.93.42.39:5140
+http://cdtriot.cn:9999/udp/239.93.42.39:5140
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="成都电信",CCTV9
-http://disk.hongda.lu:4022/udp/239.93.1.24:5140
+http://cdtriot.cn:9999/udp/239.93.1.24:5140
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="成都电信",CCTV10
-http://disk.hongda.lu:4022/udp/239.93.1.28:5140
+http://cdtriot.cn:9999/udp/239.93.1.28:5140
 #EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="成都电信",CCTV11
-http://disk.hongda.lu:4022/udp/239.93.0.102:5140
+http://cdtriot.cn:9999/udp/239.93.0.102:5140
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="成都电信",CCTV12
-http://disk.hongda.lu:4022/udp/239.93.1.30:8124
+http://cdtriot.cn:9999/udp/239.93.1.30:8124
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="成都电信",CCTV13
-http://disk.hongda.lu:4022/udp/239.93.0.66:5140
+http://cdtriot.cn:9999/udp/239.93.0.66:5140
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="成都电信",CCTV14
-http://disk.hongda.lu:4022/udp/239.93.1.29:6000
+http://cdtriot.cn:9999/udp/239.93.1.29:6000
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="成都电信",CCTV15
-http://disk.hongda.lu:4022/udp/239.93.0.103:5140
+http://cdtriot.cn:9999/udp/239.93.0.103:5140
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="成都电信",CCTV16
 
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="成都电信",CCTV17
-http://disk.hongda.lu:4022/udp/239.93.0.92:5140
+http://cdtriot.cn:9999/udp/239.93.0.92:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="成都电信",CGTN
-http://disk.hongda.lu:4022/udp/239.93.0.104:5140
+http://cdtriot.cn:9999/udp/239.93.0.104:5140
 #EXTINF:-1,tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://epg.112114.xyz/logo/CGTN西班牙语.png" group-title="成都电信",CGTN西班牙语
-http://disk.hongda.lu:4022/udp/239.93.42.49:5140
+http://cdtriot.cn:9999/udp/239.93.42.49:5140
 #EXTINF:-1,tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://epg.112114.xyz/logo/CGTN法语.png" group-title="成都电信",CGTN法语
-http://disk.hongda.lu:4022/udp/239.93.42.50:5140
+http://cdtriot.cn:9999/udp/239.93.42.50:5140
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="成都电信",CETV1
-http://disk.hongda.lu:4022/udp/239.93.1.111:5140
+http://cdtriot.cn:9999/udp/239.93.1.111:5140
 #EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="成都电信",中国交通
-http://disk.hongda.lu:4022/udp/239.93.0.142:5140
+http://cdtriot.cn:9999/udp/239.93.0.142:5140
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="成都电信",深圳卫视
-http://disk.hongda.lu:4022/udp/239.93.0.182:5140
+http://cdtriot.cn:9999/udp/239.93.0.182:5140
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="成都电信",湖南卫视
-http://disk.hongda.lu:4022/udp/239.93.0.88:5140
+http://cdtriot.cn:9999/udp/239.93.0.88:5140
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="成都电信",广东卫视
-http://disk.hongda.lu:4022/udp/239.93.0.181:5140
+http://cdtriot.cn:9999/udp/239.93.0.181:5140
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="成都电信",北京卫视
-http://disk.hongda.lu:4022/udp/239.93.0.180:5140
+http://cdtriot.cn:9999/udp/239.93.0.180:5140
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="成都电信",东方卫视
-http://disk.hongda.lu:4022/udp/239.93.0.123:5140
+http://cdtriot.cn:9999/udp/239.93.0.123:5140
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="成都电信",浙江卫视
-http://disk.hongda.lu:4022/udp/239.93.0.124:5140
+http://cdtriot.cn:9999/udp/239.93.0.124:5140
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="成都电信",江苏卫视
-http://disk.hongda.lu:4022/udp/239.93.0.89:5140
+http://cdtriot.cn:9999/udp/239.93.0.89:5140
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="成都电信",湖北卫视
-http://disk.hongda.lu:4022/udp/239.93.0.250:5140
+http://cdtriot.cn:9999/udp/239.93.0.250:5140
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="成都电信",天津卫视
-http://disk.hongda.lu:4022/udp/239.93.0.167:5140
+http://cdtriot.cn:9999/udp/239.93.0.167:5140
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="成都电信",山东卫视
-http://disk.hongda.lu:4022/udp/239.93.0.168:5140
+http://cdtriot.cn:9999/udp/239.93.0.168:5140
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="成都电信",安徽卫视
-http://disk.hongda.lu:4022/udp/239.93.1.106:5140
+http://cdtriot.cn:9999/udp/239.93.1.106:5140
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="成都电信",重庆卫视
-http://disk.hongda.lu:4022/udp/239.93.1.107:5140
+http://cdtriot.cn:9999/udp/239.93.1.107:5140
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="成都电信",辽宁卫视
-http://disk.hongda.lu:4022/udp/239.93.1.108:5140
+http://cdtriot.cn:9999/udp/239.93.1.108:5140
 #EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="成都电信",江西卫视
-http://disk.hongda.lu:4022/udp/239.93.0.134:5140
+http://cdtriot.cn:9999/udp/239.93.0.134:5140
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="成都电信",贵州卫视
-http://disk.hongda.lu:4022/udp/239.93.0.131:5140
+http://cdtriot.cn:9999/udp/239.93.0.131:5140
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="成都电信",河南卫视
-http://disk.hongda.lu:4022/udp/239.93.42.45:5140
+http://cdtriot.cn:9999/udp/239.93.42.45:5140
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="成都电信",河北卫视
-http://disk.hongda.lu:4022/udp/239.93.0.132:5140
+http://cdtriot.cn:9999/udp/239.93.0.132:5140
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="成都电信",东南卫视
-http://disk.hongda.lu:4022/udp/239.93.0.42:5140
+http://cdtriot.cn:9999/udp/239.93.0.42:5140
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="成都电信",吉林卫视
-http://disk.hongda.lu:4022/udp/239.93.0.248:5140
+http://cdtriot.cn:9999/udp/239.93.0.248:5140
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="成都电信",黑龙江卫视
-http://disk.hongda.lu:4022/udp/239.93.0.183:5140
+http://cdtriot.cn:9999/udp/239.93.0.183:5140
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="成都电信",广西卫视
-http://disk.hongda.lu:4022/udp/239.93.42.46:5140
+http://cdtriot.cn:9999/udp/239.93.42.46:5140
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="成都电信",甘肃卫视
-http://disk.hongda.lu:4022/udp/239.93.0.81:5140
+http://cdtriot.cn:9999/udp/239.93.0.81:5140
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://epg.112114.xyz/logo/康巴卫视.png" group-title="成都电信",康巴卫视
-http://disk.hongda.lu:4022/udp/239.93.0.41:5140
+http://cdtriot.cn:9999/udp/239.93.0.41:5140
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="成都电信",金鹰纪实
-http://disk.hongda.lu:4022/udp/239.93.0.130:5140
+http://cdtriot.cn:9999/udp/239.93.0.130:5140
 #EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="成都电信",上海纪实
-http://disk.hongda.lu:4022/udp/239.93.1.137:5140
+http://cdtriot.cn:9999/udp/239.93.1.137:5140
 #EXTINF:-1 tvg-id="熊猫新闻" tvg-name="熊猫新闻" tvg-logo="https://epg.112114.xyz/logo/熊猫新闻.png" group-title="成都电信",熊猫新闻
-http://disk.hongda.lu:4022/udp/239.93.1.112:5140
+http://cdtriot.cn:9999/udp/239.93.1.112:5140
 #EXTINF:-1 tvg-id="熊猫体娱" tvg-name="熊猫体娱" tvg-logo="https://epg.112114.xyz/logo/熊猫体娱.png" group-title="成都电信",熊猫体娱
-http://disk.hongda.lu:4022/udp/239.93.0.94:5140
+http://cdtriot.cn:9999/udp/239.93.0.94:5140
 #EXTINF:-1 tvg-id="熊猫少儿" tvg-name="熊猫少儿" tvg-logo="https://epg.112114.xyz/logo/熊猫少儿.png" group-title="成都电信",熊猫少儿
-http://disk.hongda.lu:4022/udp/239.93.1.189:5140
+http://cdtriot.cn:9999/udp/239.93.1.189:5140
 #EXTINF:-1 tvg-id="熊猫影院" tvg-name="熊猫影院" tvg-logo="https://epg.112114.xyz/logo/熊猫影院.png" group-title="成都电信",熊猫影院
-http://disk.hongda.lu:4022/udp/239.93.0.214:5140
+http://cdtriot.cn:9999/udp/239.93.0.214:5140
 #EXTINF:-1 tvg-id="熊猫频道" tvg-name="熊猫频道" tvg-logo="https://epg.112114.xyz/logo/熊猫频道.png" group-title="成都电信",熊猫频道
-http://disk.hongda.lu:4022/udp/239.93.0.211:9148
+http://cdtriot.cn:9999/udp/239.93.0.211:9148
 #EXTINF:-1 tvg-id="熊猫卡通" tvg-name="熊猫卡通" tvg-logo="https://epg.112114.xyz/logo/熊猫卡通.png" group-title="成都电信",熊猫卡通
-http://disk.hongda.lu:4022/udp/239.93.1.172:5140
+http://cdtriot.cn:9999/udp/239.93.1.172:5140
 #EXTINF:-1 tvg-id="收视导视" tvg-name="收视导视" tvg-logo="https://epg.112114.xyz/logo/收视导视.png" group-title="成都电信",收视导视
-http://disk.hongda.lu:4022/udp/239.93.1.39:5140
+http://cdtriot.cn:9999/udp/239.93.1.39:5140
 #EXTINF:-1 tvg-id="熊猫爱生活" tvg-name="熊猫爱生活" tvg-logo="https://epg.112114.xyz/logo/熊猫爱生活.png" group-title="成都电信",熊猫爱生活
-http://disk.hongda.lu:4022/udp/239.93.1.190:5140
+http://cdtriot.cn:9999/udp/239.93.1.190:5140
 #EXTINF:-1 tvg-id="大爱四川" tvg-name="大爱四川" tvg-logo="https://epg.112114.xyz/logo/大爱四川.png" group-title="成都电信",大爱四川
-http://disk.hongda.lu:4022/udp/239.93.1.110:5140
+http://cdtriot.cn:9999/udp/239.93.1.110:5140
 #EXTINF:-1 tvg-id="大爱旅游" tvg-name="大爱旅游" tvg-logo="https://epg.112114.xyz/logo/大爱旅游.png" group-title="成都电信",大爱旅游
-http://disk.hongda.lu:4022/udp/239.93.42.70:5140
+http://cdtriot.cn:9999/udp/239.93.42.70:5140
 #EXTINF:-1 tvg-id="大爱生活" tvg-name="大爱生活" tvg-logo="https://epg.112114.xyz/logo/大爱生活.png" group-title="成都电信",大爱生活
-http://disk.hongda.lu:4022/udp/239.93.42.71:5140
+http://cdtriot.cn:9999/udp/239.93.42.71:5140
 #EXTINF:-1 tvg-id="大爱时尚" tvg-name="大爱时尚" tvg-logo="https://epg.112114.xyz/logo/大爱时尚.png" group-title="成都电信",大爱时尚
-http://disk.hongda.lu:4022/udp/239.93.42.72:5140
+http://cdtriot.cn:9999/udp/239.93.42.72:5140
 #EXTINF:-1 tvg-id="HD看电影" tvg-name="HD看电影" tvg-logo="https://epg.112114.xyz/logo/HD看电影.png" group-title="成都电信",HD看电影
-http://disk.hongda.lu:4022/udp/239.93.42.47:5140
+http://cdtriot.cn:9999/udp/239.93.42.47:5140
 #EXTINF:-1 tvg-id="星空精选" tvg-name="星空精选" tvg-logo="https://epg.112114.xyz/logo/星空精选.png" group-title="成都电信",星空精选
-http://disk.hongda.lu:4022/udp/239.93.1.171:5140
+http://cdtriot.cn:9999/udp/239.93.1.171:5140
 #EXTINF:-1 tvg-id="少儿天地" tvg-name="少儿天地" tvg-logo="https://epg.112114.xyz/logo/少儿天地.png" group-title="成都电信",少儿天地
-http://disk.hongda.lu:4022/udp/239.93.42.34:5140
+http://cdtriot.cn:9999/udp/239.93.42.34:5140
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/SITV东方财经.png" group-title="成都电信",东方财经
-http://disk.hongda.lu:4022/udp/239.93.1.165:5140
+http://cdtriot.cn:9999/udp/239.93.1.165:5140
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="成都电信",都市剧场
-http://disk.hongda.lu:4022/udp/239.93.42.30:5140
+http://cdtriot.cn:9999/udp/239.93.42.30:5140
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="成都电信",生活时尚
-http://disk.hongda.lu:4022/udp/239.93.42.29:5140
+http://cdtriot.cn:9999/udp/239.93.42.29:5140
 #EXTINF:-1 tvg-id="求索频道" tvg-name="求索频道" tvg-logo="https://epg.112114.xyz/logo/求索频道.png" group-title="成都电信",求索频道
-http://disk.hongda.lu:4022/udp/239.93.42.24:5140
+http://cdtriot.cn:9999/udp/239.93.42.24:5140
 #EXTINF:-1 tvg-id="爱怀旧" tvg-name="爱怀旧" tvg-logo="https://epg.112114.xyz/logo/爱怀旧.png" group-title="成都电信",爱怀旧
-http://disk.hongda.lu:4022/udp/239.93.42.21:5140
+http://cdtriot.cn:9999/udp/239.93.42.21:5140
 #EXTINF:-1 tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://epg.112114.xyz/logo/爱喜剧.png" group-title="成都电信",爱喜剧
-http://disk.hongda.lu:4022/udp/239.93.42.9:5140
+http://cdtriot.cn:9999/udp/239.93.42.9:5140
 #EXTINF:-1 tvg-id="爱奇谈" tvg-name="爱奇谈" tvg-logo="https://epg.112114.xyz/logo/爱奇谈.png" group-title="成都电信",爱奇谈
-http://disk.hongda.lu:4022/udp/239.93.42.22:5140
+http://cdtriot.cn:9999/udp/239.93.42.22:5140
 #EXTINF:-1 tvg-id="爱科幻" tvg-name="爱科幻" tvg-logo="https://epg.112114.xyz/logo/爱科幻.png" group-title="成都电信",爱科幻
-http://disk.hongda.lu:4022/udp/239.93.42.10:5140
+http://cdtriot.cn:9999/udp/239.93.42.10:5140
 #EXTINF:-1 tvg-id="爱院线" tvg-name="爱院线" tvg-logo="https://epg.112114.xyz/logo/爱院线.png" group-title="成都电信",爱院线
-http://disk.hongda.lu:4022/udp/239.93.42.11:5140
+http://cdtriot.cn:9999/udp/239.93.42.11:5140
 #EXTINF:-1 tvg-id="爱谍战" tvg-name="爱谍战" tvg-logo="https://epg.112114.xyz/logo/爱谍战.png" group-title="成都电信",爱谍战
-http://disk.hongda.lu:4022/udp/239.93.42.14:5140
+http://cdtriot.cn:9999/udp/239.93.42.14:5140
 #EXTINF:-1 tvg-id="爱经典" tvg-name="爱经典" tvg-logo="https://epg.112114.xyz/logo/爱经典.png" group-title="成都电信",爱经典
-http://disk.hongda.lu:4022/udp/239.93.42.13:5140
+http://cdtriot.cn:9999/udp/239.93.42.13:5140
 #EXTINF:-1 tvg-id="爱悬疑" tvg-name="爱悬疑" tvg-logo="https://epg.112114.xyz/logo/爱悬疑.png" group-title="成都电信",爱悬疑
-http://disk.hongda.lu:4022/udp/239.93.42.12:5140
+http://cdtriot.cn:9999/udp/239.93.42.12:5140
 #EXTINF:-1 tvg-id="爱青春" tvg-name="爱青春" tvg-logo="https://epg.112114.xyz/logo/爱青春.png" group-title="成都电信",爱青春
-http://disk.hongda.lu:4022/udp/239.93.42.16:5140
+http://cdtriot.cn:9999/udp/239.93.42.16:5140
 #EXTINF:-1 tvg-id="爱都市" tvg-name="爱都市" tvg-logo="https://epg.112114.xyz/logo/爱都市.png" group-title="成都电信",爱都市
-http://disk.hongda.lu:4022/udp/239.93.42.15:5140
+http://cdtriot.cn:9999/udp/239.93.42.15:5140
 #EXTINF:-1 tvg-id="爱幼教" tvg-name="爱幼教" tvg-logo="https://epg.112114.xyz/logo/爱幼教.png" group-title="成都电信",爱幼教
-http://disk.hongda.lu:4022/udp/239.93.42.17:5140
+http://cdtriot.cn:9999/udp/239.93.42.17:5140
 #EXTINF:-1 tvg-id="爱玩具" tvg-name="爱玩具" tvg-logo="https://epg.112114.xyz/logo/爱玩具.png" group-title="成都电信",爱玩具
-http://disk.hongda.lu:4022/udp/239.93.42.18:5140
+http://cdtriot.cn:9999/udp/239.93.42.18:5140
 #EXTINF:-1 tvg-id="爱动漫" tvg-name="爱动漫" tvg-logo="https://epg.112114.xyz/logo/爱动漫.png" group-title="成都电信",爱动漫
-http://disk.hongda.lu:4022/udp/239.93.42.23:5140
+http://cdtriot.cn:9999/udp/239.93.42.23:5140
 #EXTINF:-1 tvg-id="爱电竞" tvg-name="爱电竞" tvg-logo="https://epg.112114.xyz/logo/爱电竞.png" group-title="成都电信",爱电竞
-http://disk.hongda.lu:4022/udp/239.93.42.19:5140
+http://cdtriot.cn:9999/udp/239.93.42.19:5140
 #EXTINF:-1 tvg-id="爱赛车" tvg-name="爱赛车" tvg-logo="https://epg.112114.xyz/logo/爱赛车.png" group-title="成都电信",爱赛车
-http://disk.hongda.lu:4022/udp/239.93.42.20:5140
+http://cdtriot.cn:9999/udp/239.93.42.20:5140
 #EXTINF:-1 tvg-id="爱宠宠物" tvg-name="爱宠宠物" tvg-logo="https://epg.112114.xyz/logo/爱宠宠物.png" group-title="成都电信",爱宠宠物
-http://disk.hongda.lu:4022/udp/239.93.42.32:5140
+http://cdtriot.cn:9999/udp/239.93.42.32:5140
 #EXTINF:-1 tvg-id="来钓鱼吧" tvg-name="来钓鱼吧" tvg-logo="https://epg.112114.xyz/logo/来钓鱼吧.png" group-title="成都电信",来钓鱼吧
-http://disk.hongda.lu:4022/udp/239.93.42.8:5140
+http://cdtriot.cn:9999/udp/239.93.42.8:5140
 #EXTINF:-1 tvg-id="麻辣体育" tvg-name="麻辣体育" tvg-logo="https://epg.112114.xyz/logo/麻辣体育.png" group-title="成都电信",麻辣体育
-http://disk.hongda.lu:4022/udp/239.93.42.2:5140
+http://cdtriot.cn:9999/udp/239.93.42.2:5140
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="成都电信",快乐垂钓
-http://disk.hongda.lu:4022/udp/239.93.1.151:5140
+http://cdtriot.cn:9999/udp/239.93.1.151:5140
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://epg.112114.xyz/logo/茶频道.png" group-title="成都电信",茶频道
-http://disk.hongda.lu:4022/udp/239.93.0.114:5140
+http://cdtriot.cn:9999/udp/239.93.0.114:5140
 #EXTINF:-1 tvg-id="热血剧场" tvg-name="热血剧场" tvg-logo="https://epg.112114.xyz/logo/热血剧场.png" group-title="成都电信",热血剧场
-http://disk.hongda.lu:4022/udp/239.93.1.198:5140	
+http://cdtriot.cn:9999/udp/239.93.1.198:5140	
 #EXTINF:-1 tvg-id="乐龄学堂" tvg-name="乐龄学堂" tvg-logo="https://epg.112114.xyz/logo/乐龄学堂.png" group-title="成都电信",乐龄学堂
-http://disk.hongda.lu:4022/udp/239.93.1.179:5140
+http://cdtriot.cn:9999/udp/239.93.1.179:5140
 #EXTINF:-1 tvg-id="动画番剧" tvg-name="动画番剧" tvg-logo="https://epg.112114.xyz/logo/动画番剧.png" group-title="成都电信",动画番剧
-http://disk.hongda.lu:4022/udp/239.93.1.177:5140
+http://cdtriot.cn:9999/udp/239.93.1.177:5140
 #EXTINF:-1 tvg-id="熊猫24小时" tvg-name="熊猫24小时" tvg-logo="https://epg.112114.xyz/logo/熊猫24小时.png" group-title="成都电信",熊猫24小时
-http://disk.hongda.lu:4022/udp/239.93.1.178:5140
+http://cdtriot.cn:9999/udp/239.93.1.178:5140
 #EXTINF:-1 tvg-id="综艺咖秀" tvg-name="综艺咖秀" tvg-logo="https://epg.112114.xyz/logo/综艺咖秀.png" group-title="成都电信",综艺咖秀
-http://disk.hongda.lu:4022/udp/239.93.1.175:5140
+http://cdtriot.cn:9999/udp/239.93.1.175:5140
 #EXTINF:-1 tvg-id="红色经典" tvg-name="红色经典" tvg-logo="https://epg.112114.xyz/logo/红色经典.png" group-title="成都电信",红色经典
-http://disk.hongda.lu:4022/udp/239.93.1.176:5140
+http://cdtriot.cn:9999/udp/239.93.1.176:5140
 #EXTINF:-1 tvg-id="精彩推荐" tvg-name="精彩推荐" tvg-logo="https://epg.112114.xyz/logo/精彩推荐.png" group-title="成都电信",精彩推荐
-http://disk.hongda.lu:4022/udp/239.93.1.5:5140
+http://cdtriot.cn:9999/udp/239.93.1.5:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",红原日干乔
-http://disk.hongda.lu:4022/udp/239.93.0.178:5140
+http://cdtriot.cn:9999/udp/239.93.0.178:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",红原月亮湾
-http://disk.hongda.lu:4022/udp/239.93.0.209:5140
+http://cdtriot.cn:9999/udp/239.93.0.209:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",电信导视3
-http://disk.hongda.lu:4022/udp/239.93.0.110:5140
+http://cdtriot.cn:9999/udp/239.93.0.110:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",雅克音乐节直播
-http://disk.hongda.lu:4022/udp/239.93.42.69:5140
+http://cdtriot.cn:9999/udp/239.93.42.69:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",雅克音乐节宣传
-http://disk.hongda.lu:4022/udp/239.93.42.68:5140
+http://cdtriot.cn:9999/udp/239.93.42.68:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",云演艺宣传
-http://disk.hongda.lu:4022/udp/239.93.42.60:5140
+http://cdtriot.cn:9999/udp/239.93.42.60:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",创新及人才文化节
-http://disk.hongda.lu:4022/udp/239.93.42.59:5140
+http://cdtriot.cn:9999/udp/239.93.42.59:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",华西证券
-http://disk.hongda.lu:4022/udp/239.93.0.69:5140
+http://cdtriot.cn:9999/udp/239.93.0.69:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",直播室1
-http://disk.hongda.lu:4022/udp/239.93.1.180:5140
+http://cdtriot.cn:9999/udp/239.93.1.180:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",直播室2
-http://disk.hongda.lu:4022/udp/239.93.1.181:5140
+http://cdtriot.cn:9999/udp/239.93.1.181:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",直播室3
-http://disk.hongda.lu:4022/udp/239.93.1.182:5140
+http://cdtriot.cn:9999/udp/239.93.1.182:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",直播室4
-http://disk.hongda.lu:4022/udp/239.93.1.183:5140
+http://cdtriot.cn:9999/udp/239.93.1.183:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",直播室5
-http://disk.hongda.lu:4022/udp/239.93.1.184:5140
+http://cdtriot.cn:9999/udp/239.93.1.184:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",直播室6
-http://disk.hongda.lu:4022/udp/239.93.1.185:5140
+http://cdtriot.cn:9999/udp/239.93.1.185:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",直播室7
-http://disk.hongda.lu:4022/udp/239.93.1.186:5140
+http://cdtriot.cn:9999/udp/239.93.1.186:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",直播室8
-http://disk.hongda.lu:4022/udp/239.93.1.187:5140
+http://cdtriot.cn:9999/udp/239.93.1.187:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",920
-http://disk.hongda.lu:4022/udp/239.93.1.130:5140
+http://cdtriot.cn:9999/udp/239.93.1.130:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",921
-http://disk.hongda.lu:4022/udp/239.93.1.131:5140
+http://cdtriot.cn:9999/udp/239.93.1.131:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",922
-http://disk.hongda.lu:4022/udp/239.93.1.132:5140
+http://cdtriot.cn:9999/udp/239.93.1.132:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",923
-http://disk.hongda.lu:4022/udp/239.93.1.133:5140
+http://cdtriot.cn:9999/udp/239.93.1.133:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",924
-http://disk.hongda.lu:4022/udp/239.93.1.122:5140
+http://cdtriot.cn:9999/udp/239.93.1.122:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",925
-http://disk.hongda.lu:4022/udp/239.93.1.123:5140
+http://cdtriot.cn:9999/udp/239.93.1.123:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",926
-http://disk.hongda.lu:4022/udp/239.93.1.124:5140
+http://cdtriot.cn:9999/udp/239.93.1.124:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",927
-http://disk.hongda.lu:4022/udp/239.93.1.125:5140
+http://cdtriot.cn:9999/udp/239.93.1.125:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",928
-http://disk.hongda.lu:4022/udp/239.93.1.126:5140
+http://cdtriot.cn:9999/udp/239.93.1.126:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="成都电信",929
-http://disk.hongda.lu:4022/udp/239.93.1.127:5140
+http://cdtriot.cn:9999/udp/239.93.1.127:5140
 ####
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="广东电信",广东卫视
 http://home.shenwrt.com:4022/udp/239.77.0.166:5146
